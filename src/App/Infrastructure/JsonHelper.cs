@@ -1,4 +1,4 @@
-﻿namespace App.Instructure;
+﻿namespace App.Infrastructure;
 
 public static class JsonHelper
 {

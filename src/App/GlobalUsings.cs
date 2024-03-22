@@ -1,3 +1,2 @@
 ﻿global using System.Text.Json;
-global using App.Instructure;
-
+global using App.Infrastructure;
